@@ -1,0 +1,3 @@
+Um die Simulation zu starten, muss man die Python-Datei „main.py“ ausführen. Anschliessend werden drei Strecken vorgeschlagen, die in der Parameter-Datei aufgeführt sind. Klickt man auf den Namen einer Strecke, wird die Simulation mit dieser Strecke gestartet. Klickt man jedoch auf „Genom laden“ wird die Simulation mit dem vorher in der „best_genome.pkl“-Datei abgespeicherten Genom gestartet. 
+
+In der Simulation gibt es unten links einen Button, mit dem man das beste Genom der letzten Generation abspeichern kann. Wenn eine Generation zu lange dauert, wird sie nach einiger Zeit von allein gestoppt. Die nächste Generation wird gestartet. Diesen Schritt kann man als Benutzer auch selbst mit der Leertaste ausführen. 

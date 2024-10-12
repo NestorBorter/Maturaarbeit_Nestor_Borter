@@ -1,0 +1,8 @@
+5	# Minimalgeschwindigkeit (Standard: 5)
+12	# Maximalgeschwindigkeit (Standard: 12)
+2	# Beschleunigung (Standard: 2)
+-2	# Bremsen (Standard: -2)
+4	# Lenkwinkel (Standard: 4)
+Normal		# Strecke 1 (Beispiel: Normal)
+Komplex			# Strecke 2 (Beispiel: Schmal)
+gg Uhrzeigersinn		# Strecke 3 (Beispiel: Komplex)
