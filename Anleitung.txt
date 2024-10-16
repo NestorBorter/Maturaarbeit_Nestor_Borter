@@ -1,3 +1,14 @@
-Um die Simulation zu starten, muss man die Python-Datei „main.py“ ausführen. Anschliessend werden drei Strecken vorgeschlagen, die in der Parameter-Datei aufgeführt sind. Klickt man auf den Namen einer Strecke, wird die Simulation mit dieser Strecke gestartet. Klickt man jedoch auf „Genom laden“ wird die Simulation mit dem vorher in der „best_genome.pkl“-Datei abgespeicherten Genom gestartet. 
+   ___  _______   ___    __  _______
+  / _ \/ __/ _ | / _ \  /  |/  / __/
+ / , _/ _// __ |/ // / / /|_/ / _/  
+/_/|_/___/_/ |_/____/ /_/  /_/___/  
+                                  
+:::::::::::::::::::::::::::::::::::::
 
-In der Simulation gibt es unten links einen Button, mit dem man das beste Genom der letzten Generation abspeichern kann. Wenn eine Generation zu lange dauert, wird sie nach einiger Zeit von allein gestoppt. Die nächste Generation wird gestartet. Diesen Schritt kann man als Benutzer auch selbst mit der Leertaste ausführen. 
+Ersteller: Nestor Borter, nestor.borter@mygymer.ch
+
+Diese Software ist ein Simulations-Tool, mit dem man Simulationen durchführen kann. In den Simulationen werden Autos auf einer 2D-Rennstrecke von einer KI gesteuert. Die Evolution dieser KI wird durch das NEAT-Paket umgesetzt. 
+
+Um die Simulation zu starten, führen Sie die Python-Datei „main.py“ aus. Anschliessend werden die drei Strecken vorgeschlagen, die in der Parameter-Datei aufgeführt sind. Klickt man auf den Namen einer Strecke, wird die Simulation mit dieser Strecke gestartet. Klickt man jedoch auf „Genom laden“ wird die Simulation mit dem vorher in der „best_genome.pkl“-Datei abgespeicherten Genom gestartet. 
+
+In der Simulation gibt es unten links einen Button, mit dem man das beste Genom der letzten Generation abspeichern kann. Wenn eine Generation zu lange dauert, wird sie nach einiger Zeit von allein gestoppt und  Die nächste Generation wird gestartet. Diesen Schritt kann man als Benutzer auch selbst mit der Leertaste ausführen. 
